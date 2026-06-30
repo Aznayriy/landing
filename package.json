@@ -4,7 +4,7 @@
   "description": "Frontend project built with Parcel",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html --public-url /landing/",
+    "build": "parcel build index.html --public-url /landing_The_MET/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
